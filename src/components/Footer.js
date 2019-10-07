@@ -23,7 +23,7 @@ const Footer = () => (
 	<Wrapper>
 		<Text>
 			Copyright {year} Zach Larsen •{' '}
-			<Link to="https://github.com/zlarsen/zachlarsen">
+			<Link to="https://github.com/zlarsen/zach-larsen">
 				View source code <Icon name="GitHub" />
 			</Link>
 		</Text>
