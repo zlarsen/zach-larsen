@@ -14,7 +14,7 @@ You know what sets apart a pro user from a regular user? Mastery over the keyboa
 
 Alright! That’s not the only thing but it is undoubtedly a factor.
 
-Shortcuts help you to be more productive and efficient with whatever tool you use. Imagine if you saw someone right click to copy and paste, how would you feel about it?
+Shortcuts help you to be more productive and efficient with whatever tool you use. Imagine if you saw someone right-click to copy and paste, how would you feel about it?
 
 Mac terminal is not an exception. There are certain Mac terminal shortcuts that every user must know and practice.
 
@@ -100,6 +100,6 @@ Trust me; once you master these shortcuts, you’ll notice how good you are with
 
 	If you want to see more commands for the same search string, just keep pressing Ctrl + R.
 
-	You can press press Esc to come out of the search with the last search result or enter to run the command selected.
+	You can press Esc to come out of the search with the last search result or enter to run the command selected.
 
 	Seriously, remember this shortcut and you won't be sorry.
