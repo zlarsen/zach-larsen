@@ -3,9 +3,12 @@ module.exports = {
     title: `Zach Larsen`,
     description: `Zach Larsen - Blog`,
     author: `@zlarsen`,
-    url: `https://zachlarsen.dev`
+    url: `https://zachlarsen.dev`,
+    siteUrl: `https://zachlarsen.dev`
   },
   plugins: [
+    `gatsby-plugin-sitemap`,
+    'gatsby-plugin-robots-txt',
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-root-import`,
     `gatsby-plugin-react-helmet`,
