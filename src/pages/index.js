@@ -16,7 +16,7 @@ const IndexPage = ({ data }) => {
       <WaveSection>
         <h1 className="intro-title">Hello!</h1>
         <p>
-          I'm Zach Larsen, a software engineer currently working at <Link to="https://genbloq.com/">Genbloq</Link>. I build highly scaleable
+          I'm Zach Larsen, a software engineer currently working at <Link to="https://smartrent.com/">SmartRent</Link>. I build highly scaleable
           web apps, contribute to open source, and disc golf in my free time!
         </p>
         <br />
