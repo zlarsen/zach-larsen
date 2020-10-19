@@ -25,11 +25,23 @@ const ResumePage = () => (
 				</p>
 			</WaveSection>
 			<Resume.Position
+				name="SmartRent"
+				link="https://smartrent.com"
+				start="September 2020"
+			>
+				<Resume.Role name="Software Engineer" />
+				<Resume.Description>
+					<p>
+					</p>
+				</Resume.Description>
+			</Resume.Position>
+			<Resume.Position
 				name="Genbloq"
 				link="https://genbloq.com"
 				start="Feb 2018"
+				end="September 2020"
 			>
-				<Resume.Role name="Senior Software Engineer" />
+				<Resume.Role name="Software Engineer" />
 				<Resume.Description>
 					<p>
 						Node, TypeScript, PostgreSQL, React, HyperLedger, AWS
